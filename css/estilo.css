@@ -19,4 +19,7 @@
   --bs-btn-disabled-bg: #dc3545;
   --bs-btn-disabled-border-color: #dc3545;
 }
-
+.img{
+    margin-left: 500px;
+    margin-right: 500px;
+}
